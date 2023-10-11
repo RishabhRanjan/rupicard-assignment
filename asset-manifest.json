@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/rupicard-assignment/static/css/main.5840295c.css",
-    "main.js": "/rupicard-assignment/static/js/main.f698f2ac.js",
+    "main.css": "/rupicard-assignment/static/css/main.949b68a4.css",
+    "main.js": "/rupicard-assignment/static/js/main.31f4ffc4.js",
     "static/js/787.de073fd1.chunk.js": "/rupicard-assignment/static/js/787.de073fd1.chunk.js",
     "static/media/bg.mp4": "/rupicard-assignment/static/media/bg.9cfeda99a5387324d168.mp4",
+    "static/media/one_percent_cashback.png": "/rupicard-assignment/static/media/one_percent_cashback.da65c337081dfdbfb013.png",
+    "static/media/five_x_rewards.png": "/rupicard-assignment/static/media/five_x_rewards.e4ecda231b6c8bb6d232.png",
+    "static/media/forex_globe.png": "/rupicard-assignment/static/media/forex_globe.ce7251618b44f3d32470.png",
+    "static/media/new-card-webp": "/rupicard-assignment/static/media/new-card-6be156bfeab84ae2868374c544648e5e.6be156bfeab84ae28683.webp",
     "static/media/icon.svg": "/rupicard-assignment/static/media/icon.2104e54837d877bdbc861cd80c987250.svg",
     "index.html": "/rupicard-assignment/index.html",
-    "main.5840295c.css.map": "/rupicard-assignment/static/css/main.5840295c.css.map",
-    "main.f698f2ac.js.map": "/rupicard-assignment/static/js/main.f698f2ac.js.map",
+    "main.949b68a4.css.map": "/rupicard-assignment/static/css/main.949b68a4.css.map",
+    "main.31f4ffc4.js.map": "/rupicard-assignment/static/js/main.31f4ffc4.js.map",
     "787.de073fd1.chunk.js.map": "/rupicard-assignment/static/js/787.de073fd1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5840295c.css",
-    "static/js/main.f698f2ac.js"
+    "static/css/main.949b68a4.css",
+    "static/js/main.31f4ffc4.js"
   ]
 }
